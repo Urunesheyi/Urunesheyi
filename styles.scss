@@ -4,7 +4,7 @@ $background-color-3:#254D32;
 $text-color-1:#00CFFF;
 $text-color-2:#FFBFB7;
 $text-color-3:#F6F5AE;
-$font-stack: Arial, serif;
+
 
 body {
     margin: 0;
@@ -12,6 +12,17 @@ body {
     color: $text-color-1;
 }
 
-#heading, #job-title {
+h1, h3{
     padding: 50px;
+    text-align: center;
+} 
+
+.bodyOne {
+    background-color: $background-color-2;
+    color: $text-color-2;
+}
+
+.bodyTwo {
+    background-color: $background-color-3;
+    color: $text-color-3;
 }

@@ -4,8 +4,19 @@ body {
   color: #00CFFF;
 }
 
-#heading, #job-title {
+h1, h3 {
   padding: 50px;
+  text-align: center;
+}
+
+.bodyOne {
+  background-color: #38040E;
+  color: #FFBFB7;
+}
+
+.bodyTwo {
+  background-color: #254D32;
+  color: #F6F5AE;
 }
 
 /*# sourceMappingURL=style.css.map */
