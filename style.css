@@ -19,4 +19,14 @@ h1, h3 {
   color: #F6F5AE;
 }
 
+img {
+  width: 1px;
+  height: 500px;
+}
+
+#carousel-test {
+  padding-left: 600px;
+  padding-right: 600px;
+}
+
 /*# sourceMappingURL=style.css.map */
